@@ -1,5 +1,5 @@
 package sample.java.project;
-// A sample change
+
 import com.beust.jcommander.JCommander;
 import com.beust.jcommander.Parameter;
 import com.beust.jcommander.ParameterException;
